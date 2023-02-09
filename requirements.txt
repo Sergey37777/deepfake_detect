@@ -1,0 +1,9 @@
+pytorchcv/pytorchcv-0.0.55-py2.py3-none-any.whl
+tensorflow
+opencv-python
+torch
+torchvision
+tensorflow-cpu
+pandas
+matplotlib
+numpy<1.24.0
