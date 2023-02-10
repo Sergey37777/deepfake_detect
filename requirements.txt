@@ -7,3 +7,4 @@ tensorflow-cpu
 pandas
 matplotlib
 numpy<1.24.0
+flask
